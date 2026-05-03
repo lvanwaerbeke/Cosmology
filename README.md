@@ -1,6 +1,6 @@
 # Cosmology: Recombination Models Notebook
 
-This repository contains a teaching notebook on cosmological recombination, designed for a 4th year cosmology course.
+This repository contains a teaching notebook on cosmological recombination.
 
 The main file is:
 
